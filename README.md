@@ -1,4 +1,7 @@
-# RespirationScan Issue Tracker 
+# RespirationScan Issue Tracker
+
+![RespirationScan](https://github.com/RespirationScan/issues/blob/main/rs-logo.png?raw=true)
+
 ### Official issue tracker for any RespirationScan Software ###
 
 This is a place for RespirationScan software users to be able to report issues or bugs and request features.
