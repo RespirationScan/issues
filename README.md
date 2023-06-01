@@ -10,5 +10,5 @@ You must reference the application in the subject with the codename italicized i
 * Microbiology Lab Metadata Acquisition Utility (*[plutus](https://github.com/RespirationScan/issues/issues/new?projects=respirationscan/3)*)
 * GC-MS Data Transfer (*[perses](https://github.com/RespirationScan/issues/issues/new?projects=respirationscan/12)*)
 * Database Reference Utility (*[hebe](https://github.com/RespirationScan/issues/issues/new?projects=respirationscan/10)*)
-* Analytical Chemistry Research Tool (*[hermes](https://github.com/RespirationScan/issues/issues/new?projects=respirationscan/7)*)
+* Analytical Chemistry Research Utility (*[hermes](https://github.com/RespirationScan/issues/issues/new?projects=respirationscan/7)*)
 * ExhalePN (*[aether](https://github.com/RespirationScan/issues/issues/new?projects=respirationscan/6)*)
